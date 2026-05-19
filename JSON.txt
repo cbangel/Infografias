@@ -1,0 +1,242 @@
+{
+  "page_1": {
+    "paleta_colores": ["#050505", "#7A0000", "#D40000", "#FFFFFF"],
+    "tipografia": {
+      "principal": "Sans futurista pixelada",
+      "secundaria": "Sans condensada",
+      "estilo": "Tecnológica, luminosa, sci-fi"
+    },
+    "estilo_ilustracion": "Fondo abstracto digital con arcos rojos luminosos y degradados oscuros",
+    "estructura": "Título centrado con subtítulo pequeño debajo sobre fondo abstracto de alto contraste",
+    "elementos_decorativos": ["arcos luminosos", "resplandor rojo", "sombras profundas", "efecto neón"],
+    "tono_visual": "Dramático, tecnológico, intenso"
+  },
+  "page_2": {
+    "paleta_colores": ["#050505", "#8B0000", "#E00000", "#FFFFFF"],
+    "tipografia": {
+      "principal": "Sans futurista pixelada",
+      "secundaria": "Sans condensada",
+      "estilo": "Digital y cinematográfica"
+    },
+    "estilo_ilustracion": "Composición abstracta con curvas rojas y fondo negro",
+    "estructura": "Título grande centrado; subtítulo alineado bajo el título",
+    "elementos_decorativos": ["curvas rojas", "brillos suaves", "contraste negro-rojo", "halo blanco en texto"],
+    "tono_visual": "Tecnológico, serio, corporativo"
+  },
+  "page_3": {
+    "paleta_colores": ["#1B0F3A", "#3424D6", "#00D8FF", "#FFFFFF", "#A000FF"],
+    "tipografia": {
+      "principal": "Sans display futurista",
+      "secundaria": "Sans compacta",
+      "estilo": "Gaming, neón, tecnológica"
+    },
+    "estilo_ilustracion": "Collage digital con manos robóticas realistas y panel HUD vectorial",
+    "estructura": "Marco central tipo pantalla; robots a ambos lados; título en el centro",
+    "elementos_decorativos": ["rejilla perspectiva", "destellos", "marcos HUD", "líneas cian", "paneles geométricos"],
+    "tono_visual": "Futurista, energético, de ciencia ficción"
+  },
+  "page_4": {
+    "paleta_colores": ["#0B1A2A", "#122B3C", "#6FD9E8", "#FFFFFF", "#B9C7D2"],
+    "tipografia": {
+      "principal": "Sans fina y moderna",
+      "secundaria": "Sans condensada",
+      "estilo": "Minimalista, tecnológica, institucional"
+    },
+    "estilo_ilustracion": "Render 3D realista de androide con redes neuronales de fondo",
+    "estructura": "Texto a la izquierda y figura robótica dominante a la derecha",
+    "elementos_decorativos": ["nodos conectados", "icono cerebral", "botón URL", "resplandor azul"],
+    "tono_visual": "Profesional, futurista, científico"
+  },
+  "page_5": {
+    "paleta_colores": ["#1C0735", "#FFFFFF", "#7C4DFF", "#FFB14A", "#E8D6FF"],
+    "tipografia": {
+      "principal": "Sans geométrica bold",
+      "secundaria": "Sans condensada",
+      "estilo": "Limpia, tecnológica, elegante"
+    },
+    "estilo_ilustracion": "Fondo abstracto con mallas de puntos, ondas y luces suaves",
+    "estructura": "Título central vertical con líneas horizontales separadoras",
+    "elementos_decorativos": ["puntos en malla", "ondas luminosas", "bokeh", "líneas finas"],
+    "tono_visual": "Sofisticado, digital, moderno"
+  },
+  "page_6": {
+    "paleta_colores": ["#F8D7DF", "#FF5A7A", "#FF7A1A", "#FFFFFF", "#111111"],
+    "tipografia": {
+      "principal": "Sans bold redondeada",
+      "secundaria": "Líneas simuladas de texto",
+      "estilo": "Editorial, amable, contemporánea"
+    },
+    "estilo_ilustracion": "Diseño abstracto translúcido con cintas curvas y tarjeta central iluminada",
+    "estructura": "Tarjeta cuadrada centrada en perspectiva sobre formas fluidas",
+    "elementos_decorativos": ["cintas translúcidas", "brillo perimetral", "paneles de interfaz", "degradados pastel"],
+    "tono_visual": "Creativo, cálido, optimista"
+  },
+  "page_7": {
+    "paleta_colores": ["#FFFFFF", "#0F4C75", "#D9660F", "#F5EED2", "#F6C85F"],
+    "tipografia": {
+      "principal": "Sans redondeada bold",
+      "secundaria": "Sans pequeña",
+      "estilo": "Educativa, infantil, amigable"
+    },
+    "estilo_ilustracion": "Ilustración vectorial plana de libros con formas decorativas",
+    "estructura": "Portada vertical con ilustración superior, título central y botón inferior",
+    "elementos_decorativos": ["libros", "hojas", "estrellas", "líneas punteadas", "formas onduladas en esquinas"],
+    "tono_visual": "Escolar, alegre, accesible"
+  },
+  "page_8": {
+    "paleta_colores": ["#031B38", "#0B3E75", "#8DBBFF", "#FFFFFF", "#142B4A"],
+    "tipografia": {
+      "principal": "Sans bold expandida",
+      "secundaria": "Sans técnica en mayúsculas",
+      "estilo": "Tecnológica, editorial, científica"
+    },
+    "estilo_ilustracion": "Imagen digital de globo holográfico sobre mano con fondo de datos",
+    "estructura": "Formato portada: cabecera superior, imagen central grande y texto inferior",
+    "elementos_decorativos": ["códigos binarios", "líneas de interfaz", "marcos diagonales", "brillo holográfico"],
+    "tono_visual": "Científico, futurista, corporativo"
+  },
+  "page_9": {
+    "paleta_colores": ["#06152E", "#0AB7A7", "#FFFFFF", "#00C8FF", "#0F2B4D"],
+    "tipografia": {
+      "principal": "Sans futurista angular",
+      "secundaria": "Sans pequeña editorial",
+      "estilo": "Tecnológica, limpia, seria"
+    },
+    "estilo_ilustracion": "Cerebro abstracto construido con nodos y conexiones",
+    "estructura": "Título superior grande, gráfico central y cita/promesa editorial en la parte inferior",
+    "elementos_decorativos": ["red neuronal", "puntos luminosos", "líneas verticales", "destellos azules"],
+    "tono_visual": "Educativo, tecnológico, avanzado"
+  },
+  "page_10": {
+    "paleta_colores": ["#000000", "#FFFFFF", "#FFB000", "#B40000", "#2B2B2B"],
+    "tipografia": {
+      "principal": "Serif editorial elegante",
+      "secundaria": "Sans limpia",
+      "estilo": "Revista científica clásica"
+    },
+    "estilo_ilustracion": "Fotomontaje espacial con eclipse y resplandor solar",
+    "estructura": "Cabecera de revista arriba, imagen central y titulares secundarios abajo",
+    "elementos_decorativos": ["eclipse", "estrellas", "resplandor solar", "jerarquía editorial"],
+    "tono_visual": "Misterioso, científico, premium"
+  },
+  "page_11": {
+    "paleta_colores": ["#5B4CC4", "#8C7BE8", "#F7A6FF", "#FFFFFF", "#33266E"],
+    "tipografia": {
+      "principal": "Sans fina y amplia",
+      "secundaria": "Sans ligera",
+      "estilo": "Serena, minimalista, espiritual"
+    },
+    "estilo_ilustracion": "Fotografía suave de flor de loto sobre agua con tratamiento violeta",
+    "estructura": "Imagen a pantalla completa con texto superior e inferior superpuesto",
+    "elementos_decorativos": ["flor de loto", "reflejo en agua", "ondas suaves", "luz difusa"],
+    "tono_visual": "Calmado, meditativo, etéreo"
+  },
+  "page_12": {
+    "paleta_colores": ["#2E2E2E", "#FF3B3B", "#F2EE3E", "#37A2E0", "#F0F0F0"],
+    "tipografia": {
+      "principal": "Sans bold condensada",
+      "secundaria": "Sans pequeña",
+      "estilo": "Moderna, modular, editorial"
+    },
+    "estilo_ilustracion": "Composición geométrica tipo maqueta editorial con bloques de color",
+    "estructura": "Retícula asimétrica con rectángulos grandes y pequeños",
+    "elementos_decorativos": ["bloques rectangulares", "márgenes blancos", "contraste de colores primarios", "layout de índice"],
+    "tono_visual": "Minimalista, gráfico, contemporáneo"
+  },
+  "page_13": {
+    "paleta_colores": ["#F2B000", "#F05A28", "#D6251F", "#75A7A4", "#FFFFFF"],
+    "tipografia": {
+      "principal": "Sans bold geométrica",
+      "secundaria": "Sans en mayúsculas",
+      "estilo": "Editorial, moderna, limpia"
+    },
+    "estilo_ilustracion": "Imagen abstracta de planos geométricos con textura de pared pintada",
+    "estructura": "Imagen superior dominante y franja blanca inferior con título",
+    "elementos_decorativos": ["formas geométricas", "textura rugosa", "bloques de color", "espacio negativo"],
+    "tono_visual": "Artístico, moderno, urbano"
+  },
+  "page_14": {
+    "paleta_colores": ["#FFFFFF", "#F7B7D8", "#F3D989", "#F6A900", "#F2EDE4"],
+    "tipografia": {
+      "principal": "Sans bold en mayúsculas",
+      "secundaria": "No destacada",
+      "estilo": "Minimalista, artística, suave"
+    },
+    "estilo_ilustracion": "Formas abstractas orgánicas con degradados pastel y textura de papel",
+    "estructura": "Título grande alineado a la izquierda sobre formas circulares superpuestas",
+    "elementos_decorativos": ["círculos orgánicos", "línea curva blanca", "textura de papel", "degradados suaves"],
+    "tono_visual": "Creativo, elegante, editorial"
+  },
+  "page_15": {
+    "paleta_colores": ["#E7E0D6", "#B4AEA3", "#7E776E", "#FFFFFF", "#D0C8BD"],
+    "tipografia": {
+      "principal": "Sans bold expandida",
+      "secundaria": "No visible",
+      "estilo": "Sobria, minimalista, neutral"
+    },
+    "estilo_ilustracion": "Abstracción geométrica con círculos superpuestos y trama de semitono",
+    "estructura": "Composición centrada con grandes masas circulares y texto pequeño a la izquierda",
+    "elementos_decorativos": ["círculos", "patrón halftone", "superposiciones translúcidas", "fondo beige"],
+    "tono_visual": "Editorial, calmado, sofisticado"
+  },
+  "page_16": {
+    "paleta_colores": ["#F5FAFC", "#25BFEF", "#2C6F8F", "#A6D96A", "#4B4B4B"],
+    "tipografia": {
+      "principal": "Sans uppercase geométrica",
+      "secundaria": "Sans condensada vertical",
+      "estilo": "Experimental, científica, editorial"
+    },
+    "estilo_ilustracion": "Fotografía/imagen espacial de nebulosa con composición de revista",
+    "estructura": "Imagen central grande; título superior; textos laterales rotados",
+    "elementos_decorativos": ["imagen cósmica", "texto vertical", "márgenes amplios", "numeración de volumen"],
+    "tono_visual": "Visionario, científico, futurista"
+  },
+  "page_17": {
+    "paleta_colores": ["#2F6BFF", "#F5C4D8", "#E9A7C4", "#111111", "#FFFFFF"],
+    "tipografia": {
+      "principal": "Script/cursiva elegante",
+      "secundaria": "No destacada",
+      "estilo": "Retro, decorativa, lúdica"
+    },
+    "estilo_ilustracion": "Patrón geométrico repetitivo con textura granulada",
+    "estructura": "Fondo completo con patrón; medallón circular central dividido en dos colores",
+    "elementos_decorativos": ["semicírculos", "patrón modular", "textura desgastada", "círculo central"],
+    "tono_visual": "Retro, creativo, alegre"
+  },
+  "page_18": {
+    "paleta_colores": ["#F2F2F2", "#F28C00", "#F2D400", "#111111", "#BDBDBD"],
+    "tipografia": {
+      "principal": "Sans bold moderna",
+      "secundaria": "Sans pequeña editorial",
+      "estilo": "Bauhaus, geométrica, gráfica"
+    },
+    "estilo_ilustracion": "Formas geométricas planas sobre fondo con textura de papel",
+    "estructura": "Figuras grandes distribuidas en diagonal con título en la zona inferior izquierda",
+    "elementos_decorativos": ["rectángulos inclinados", "triángulo", "círculo amarillo", "marcos lineales", "textura de grano"],
+    "tono_visual": "Artístico, académico, moderno"
+  },
+  "page_19": {
+    "paleta_colores": ["#F4A45C", "#F06292", "#C21888", "#FFFFFF", "#FFD0C0"],
+    "tipografia": {
+      "principal": "Sans ultra bold en mayúsculas",
+      "secundaria": "Sans espaciada",
+      "estilo": "Contemporánea, impactante, gráfica"
+    },
+    "estilo_ilustracion": "Fondo degradado con líneas geométricas repetidas en perspectiva",
+    "estructura": "Título masivo arriba; patrón diagonal ocupa el centro; subtítulo abajo a la derecha",
+    "elementos_decorativos": ["degradado cálido", "líneas paralelas", "formas angulares", "composición diagonal"],
+    "tono_visual": "Energético, moderno, experimental"
+  },
+  "page_20": {
+    "paleta_colores": ["#E8793F", "#B24A34", "#26000F", "#FFFFFF", "#F6C5A6"],
+    "tipografia": {
+      "principal": "Sans bold editorial",
+      "secundaria": "Serif itálica elegante",
+      "estilo": "Revista cultural, sofisticada"
+    },
+    "estilo_ilustracion": "Fondo degradado fotográfico/abstracto con sombras orgánicas",
+    "estructura": "Cabecera grande superior; bloques de texto editoriales distribuidos en izquierda y derecha",
+    "elementos_decorativos": ["degradado cálido", "sombras oscuras", "textos en itálica", "marca Adobe Express"],
+    "tono_visual": "Editorial, artístico, elegante"
+  }
+}
